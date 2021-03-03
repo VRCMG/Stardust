@@ -1,0 +1,11 @@
+C:\Users\Ivan\source\repos\Stardust\Stardust\bin\Debug\Stardust.exe.config
+C:\Users\Ivan\source\repos\Stardust\Stardust\bin\Debug\Stardust.exe
+C:\Users\Ivan\source\repos\Stardust\Stardust\bin\Debug\Stardust.pdb
+C:\Users\Ivan\source\repos\Stardust\Stardust\obj\Debug\Stardust.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Stardust\Stardust\obj\Debug\Stardust.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Stardust\Stardust\obj\Debug\Stardust.exe
+C:\Users\Ivan\source\repos\Stardust\Stardust\obj\Debug\Stardust.pdb
+C:\Users\Ivan\source\repos\Stardust\Stardust\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan\source\repos\Stardust\Stardust\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan\source\repos\Stardust\Stardust\obj\Debug\Stardust.csproj.CopyComplete
+C:\Users\Ivan\source\repos\Stardust\Stardust\bin\Debug\Photon3Unity3D.dll
